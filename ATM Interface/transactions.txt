@@ -1,0 +1,4 @@
+user111,Deposit,500.0,3500.0
+user111,Withdrawal,100.0,3400.0
+user111,Transfer to user333,1000.0,2400.0
+user333,Transfer from user111,1000.0,3500.0
